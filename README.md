@@ -22,7 +22,7 @@ THEN I exit the application, and the HTML is generated
 
 
 Git Hub Repo:
-https://github.com/axv50/portfolio
+https://github.com/axv50/team-profile-generator10
 
 Working Site:
-https://axv50.github.io/portfolio/
+https://axv50.github.io/team-profile-generator10/
