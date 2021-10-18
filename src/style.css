@@ -1,0 +1,40 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.title-container {
+    border: 5px double black;
+    background-color: rgb(0, 255, 234);
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    margin: auto;
+}
+
+.svg-container {
+    text-align: center;
+}
+
+.main-container {
+    padding-top: 50px;
+}
+
+.border {
+    border-style: none!important;
+    margin: 10px;
+    text-align: left;
+}
+
+.row {
+    margin: auto;
+    width: 90%;
+    border: 5px double black;
+    padding: 70px 0;
+    justify-content: space-evenly;
+}
+
+.card-header {
+    background-color: rgb(0, 255, 234);
+}
