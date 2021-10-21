@@ -13,9 +13,10 @@
   "author": "Alexis Vega",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/axv50/team-profile-generator10"
+    "url": "https://github.com/axv50/team-profile-generator10/issues"
   },
   "homepage": "https://github.com/axv50/team-profile-generator10",
+
   "dependencies": {
     "inquirer": "^8.1.2"
   },
